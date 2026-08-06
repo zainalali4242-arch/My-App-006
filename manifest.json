@@ -1,0 +1,17 @@
+{
+  "name": "Log Mekanik — Catatan Aktivitas Harian",
+  "short_name": "Log Mekanik",
+  "description": "Pencatatan aktivitas harian mekanik alat berat, dump truck, genset, dan rig core drilling. Bekerja penuh tanpa sinyal.",
+  "lang": "id",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16191D",
+  "theme_color": "#16191D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
